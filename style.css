@@ -5,6 +5,8 @@ body {
   text-transform: uppercase;
   letter-spacing: .4em;
   background: linear-gradient(to right, rgb(150, 37, 86), rgb(29, 185, 118));
+  display: flex;
+  align-content: center;
 }
 
 h1 {
